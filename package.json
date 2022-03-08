@@ -1,0 +1,28 @@
+{
+  "name": "lhb-snippets",
+  "version": "0.0.4",
+  "cn_name": "代码片段工具库",
+  "description": "邻汇吧前端代码片段工具",
+  "projectId": "271",
+  "bin": {
+    "lhb-snippets": "./bin/lhb.js"
+  },
+  "scripts": {
+    "postpublish": "robot notify weixin && robot push docs",
+    "push": "robot push docs"
+  },
+  "author": "linhuiba",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "4.1.0",
+    "commander": "6.1.0",
+    "fs-extra": "9.0.1",
+    "inquirer": "7.3.3"
+  },
+  "devDependencies": {
+    "lhb-robot": "1.2.6"
+  },
+  "lhbRobot": {
+    "gitlabUrl": "https://gitlab.lanhanba.com/fe/lhb-snippets"
+  }
+}

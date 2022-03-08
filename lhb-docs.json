@@ -1,0 +1,25 @@
+[
+  {
+    "name": "快速上手", 
+    "en_name": "README", 
+    "path": "README.md",
+    "toc": true
+  }, 
+  {
+    "name": "更新日志", 
+    "en_name": "changelog",
+    "path": "Changelog.md"
+  },
+  {
+    "name": "使用文档", 
+    "en_name": "docs",
+    "path": "docs.md",
+    "toc": true
+  },
+  {
+    "name": "制作代码片段", 
+    "en_name": "snippets",
+    "path": "snippets.md",
+    "toc": true
+  }
+]
