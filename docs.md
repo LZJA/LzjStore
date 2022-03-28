@@ -13,4 +13,5 @@ lhb-snippets create js
 
 ```js
 lhb-snippets create linhuiba/admin
+lhb-snippets create linhuiba/linxiaohui
 ```
