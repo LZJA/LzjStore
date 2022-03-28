@@ -1,17 +1,17 @@
-# 邻汇吧代码片段工具库
+# 代码片段工具库
 
 
 ## 安装及快速开始
-由于只发布到了公司私有库,所以安装前请确保**使用公司私有源!**
+可以发布到npm或公司私有库
 
-### 方式1: 临时指向源
+### 方式1: 临时指向源(如果发布到的是公司私有库)
 ``` bash
-npm install -g lhb-snippets --registry=http://47.114.119.218:4873/
+npm install -g lhb-snippets --registry=http://
 ```
-### 方式2: 切换源
+### 方式2: 切换源(如果发布到的是公司私有库)
 
 ``` bash
-npm config set registry http://47.114.119.218:4873
+npm config set registry http://
 ```
 
 安装:
