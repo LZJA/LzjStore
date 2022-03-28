@@ -9,13 +9,8 @@ lhb-snippets create vue
 ```js
 lhb-snippets create js
 ```
-#### 创建邻汇吧后台片段
+#### 创建目录下的片段
 
 ```js
 lhb-snippets create linhuiba/admin
-```
-#### 创建邻小汇片段
-
-```js
-lhb-snippets create linhuiba/linxiaohui
 ```
