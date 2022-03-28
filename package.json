@@ -2,7 +2,7 @@
   "name": "lhb-snippets",
   "version": "0.0.4",
   "cn_name": "代码片段工具库",
-  "description": "邻汇吧前端代码片段工具",
+  "description": "前端代码片段工具",
   "projectId": "271",
   "bin": {
     "lhb-snippets": "./bin/lhb.js"
